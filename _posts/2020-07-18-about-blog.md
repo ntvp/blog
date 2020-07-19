@@ -21,5 +21,7 @@ Blog đi vào hoạt động vào ngày 19/7/2020 và được thành lập bở
 Nếu như bạn cảm thấy muốn chia sẻ những khoảnh khắc hài hước, thú vị của NTVP thì có thể liên hệ với mình theo đường link trên (Mình ít sử dụng Instagram, các bạn có thể nhắn tin cho mình qua Facebook hoặc Telegram!)
 
 Danh sách những người đóng góp cho blog:
-@yeuntvp2842018lan (https://www.instagram.com/yeuntvp2842018lan/)
-@ntvpinmyheart (https://www.instagram.com/ntvpinmyheart/)
+
+@yeuntvp2842018lan ([https://www.instagram.com/yeuntvp2842018lan/](https://www.instagram.com/yeuntvp2842018lan/ "https://www.instagram.com/yeuntvp2842018lan/"))
+
+@ntvpinmyheart ([https://www.instagram.com/ntvpinmyheart/](https://www.instagram.com/yeuntvp2842018lan/ "https://www.instagram.com/yeuntvp2842018lan/"))
