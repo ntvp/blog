@@ -1,7 +1,7 @@
 # Site
 name: "Nguoi Trong Van Phong"
 title: "Nguoi Trong Van Phong"
-description: "Hay subscribe cho Nguoi Trong Van Phong"
+description: "Hay subscribe cho Nguoi Trong Van Phong!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
@@ -11,8 +11,8 @@ permalink: /:title/
 # Authors
 authors:
   minh:
-    name: Minh Tran
-    display_name: Minh Tran
+    name: Nguoi Trong Van Phong
+    display_name: Nguoi Trong Van Phong
     avatar: 'assets/images/avatar.png'
     email: trantminh1754@protonmail.com
     web: https://trantuanminh.com/
