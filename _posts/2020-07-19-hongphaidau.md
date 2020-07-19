@@ -11,4 +11,7 @@ featured: true
 ---
 ### Cú pháp để comment/post trên Facebook: 
 ## ntvp.github.io/hongphaidau
+
+### Hoặc tìm kiếm "ntvp" hay "hongphaidau" trên mục GIF của Facebook.
+
 Nguồn: https://www.youtube.com/watch?v=cRhLOCVejCo
