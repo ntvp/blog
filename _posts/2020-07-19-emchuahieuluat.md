@@ -10,4 +10,7 @@ description: Cú pháp comment
 ---
 ### Cú pháp để comment/post trên Facebook: 
 ## ntvp.github.io/emchuahieuluat
+
+### Hoặc tìm kiếm "ntvp" hay "emchuahieuluat" trên mục GIF của Facebook.
+
 Nguồn: https://www.youtube.com/watch?v=6QsMzPdQ48M
