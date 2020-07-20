@@ -4,7 +4,7 @@ title: About this blog
 layout: post
 author: minh
 categories:
-  - GIFs
+  - About
 image: 'https://media.giphy.com/media/frFxb5y5zmAGeBiFTo/giphy.gif'
 description: >-
   Đây chỉ đơn thuần là một fanblog của NTVP tương tự như bao fanblog khác thôi,
