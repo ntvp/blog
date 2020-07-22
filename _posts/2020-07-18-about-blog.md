@@ -25,3 +25,7 @@ Danh sách những người đóng góp cho blog:
 @yeuntvp2842018lan ([https://www.instagram.com/yeuntvp2842018lan/](https://www.instagram.com/yeuntvp2842018lan/ "https://www.instagram.com/yeuntvp2842018lan/"))
 
 @ntvpinmyheart ([https://www.instagram.com/ntvpinmyheart/](https://www.instagram.com/yeuntvp2842018lan/ "https://www.instagram.com/yeuntvp2842018lan/"))
+
+
+
+keywords: NTVP Moments, Nguoi Trong Van Phong Moments, NTVP, Người Trong Văn Phòng, GIF.
