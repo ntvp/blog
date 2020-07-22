@@ -14,3 +14,5 @@ description: Cú pháp comment
 ### Hoặc tìm kiếm "ntvp" hay "emchuahieuluat" trên mục GIF của Facebook.
 
 Nguồn: https://www.youtube.com/watch?v=6QsMzPdQ48M
+
+keywords: NTVP Moments, Nguoi Trong Van Phong Moments, NTVP, Người Trong Văn Phòng, GIF, em chưa hiểu luật.
